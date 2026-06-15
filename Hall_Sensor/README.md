@@ -18,4 +18,4 @@ This state change can be handled via polling or interrupts to execute specific h
 <img width="520" height="435" alt="hall" src="https://github.com/user-attachments/assets/fb6898de-9b0d-423a-9f47-77e9817c75ee" />
 
 
-▶️ **[Click here to watch the project demonstration video](YOUTUBE_LINKIN_BURAYA_GELECEK)**
+▶️ **https://youtube.com/shorts/zZUeIIyXlSQ?feature=share**
