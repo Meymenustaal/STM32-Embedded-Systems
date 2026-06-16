@@ -15,7 +15,8 @@ When a magnet approaches the sensor, the magnetic field triggers a state change 
 This state change can be handled via polling or interrupts to execute specific hardware responses (e.g., toggling an LED).
 
 ## 📷 Media & Demonstration
-<img width="520" height="435" alt="hall" src="https://github.com/user-attachments/assets/fb6898de-9b0d-423a-9f47-77e9817c75ee" />
+<img width="680" height="363" alt="image" src="https://github.com/user-attachments/assets/8cf4fc11-f1e4-4b70-af29-ae33fd5585db" />
+
 
 
 ▶️ **https://youtube.com/shorts/zZUeIIyXlSQ?feature=share**
