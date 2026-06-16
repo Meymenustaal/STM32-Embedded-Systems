@@ -144,6 +144,15 @@ int main(void)
 	    Value2 = __HAL_TIM_GET_COUNTER (&htim1);
 
 	    Distance[0]= (Value2-Value1)* 0.034/2;
+	  
+	   if( Distance[0] <= 12)
+	   	  {
+	   		  HAL_GPIO_WritePin(GPIOA, GPIO_PIN_8, GPIO_PIN_SET);
+	   	  }
+	   	  else
+	   	  {
+	   		  HAL_GPIO_WritePin(GPIOA, GPIO_PIN_8, GPIO_PIN_RESET);
+	   	  }
 
 	  HAL_CAN_AddTxMessage(&hcan, &pHeader, (uint8_t*)Distance, &mTxMailbox);
 
