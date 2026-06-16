@@ -20,9 +20,9 @@ This repository contains a collection of embedded system applications and hardwa
 * `Timer_Traffic_Light/` - Traffic light sequence implementation using hardware timers.
 * `Potentiometer_Buzzer/` - Analog voltage reading via ADC to control buzzer frequency/volume.
 * `Ultrasonic_Warning/` - HC-SR04 integration for distance measurement with visual/auditory feedback.
-* `NTC_Fan_Control/` - ADC configuration and temperature-triggered autonomous fan system.
+* `NTC_Temperature_Measurement/` - ADC configuration and temperature-triggered autonomous fan system.
 * `Hall_Sensor/` - Magnetic field detection and proximity-based hardware triggering.
-* `PWM_Motor_Control/` - Timer/PWM settings for motor speed and precise angle manipulation.
+* `PWM_Servo_Motor_Control/` - Timer/PWM settings for motor speed and precise angle manipulation.
 * `CAN_Bus_Tests/` - CAN bus communication attempts between identical microcontroller pairs (F4 to F4, F1 to F1).
 
 ## 🛠️ Tools & Technologies
